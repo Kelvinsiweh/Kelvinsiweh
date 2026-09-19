@@ -1,0 +1,39 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70A5FD; }
+    .stat-label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #A9B1D6; }
+    .stat-val { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38BDF8; }
+    .bold { font-weight: 700; }
+    .bg { fill: #0F172A; stroke: #1E293B; stroke-width: 1.5px; rx: 10px; }
+  </style>
+  <rect class="bg" width="494" height="194" x="0.5" y="0.5" />
+  <g transform="translate(25, 32)">
+    <text class="header" x="0" y="0">Kelvin's GitHub Stats</text>
+  </g>
+  <g transform="translate(25, 65)">
+    <!-- Total Contributions -->
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="6" r="4" fill="#38BDF8" />
+      <text class="stat-label" x="18" y="10">Total Contributions (Past Year):</text>
+      <text class="stat-val" x="380" y="10" text-anchor="end">1,800+ contributions</text>
+    </g>
+    <!-- Total Commits -->
+    <g transform="translate(0, 26)">
+      <circle cx="6" cy="6" r="4" fill="#34D399" />
+      <text class="stat-label" x="18" y="10">Total Production Commits:</text>
+      <text class="stat-val" x="380" y="10" text-anchor="end">1,750+ commits</text>
+    </g>
+    <!-- Longest Streak -->
+    <g transform="translate(0, 52)">
+      <circle cx="6" cy="6" r="4" fill="#F472B6" />
+      <text class="stat-label" x="18" y="10">Active Contribution Streak:</text>
+      <text class="stat-val" x="380" y="10" text-anchor="end">365 Days Continuous</text>
+    </g>
+    <!-- Maintained Repositories -->
+    <g transform="translate(0, 78)">
+      <circle cx="6" cy="6" r="4" fill="#FBBF24" />
+      <text class="stat-label" x="18" y="10">Maintained Production Repositories:</text>
+      <text class="stat-val" x="380" y="10" text-anchor="end">6 Repositories</text>
+    </g>
+  </g>
+</svg>

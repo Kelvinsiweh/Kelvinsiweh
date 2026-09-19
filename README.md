@@ -69,8 +69,15 @@ I am a software engineer focused on building fault-tolerant backend architecture
 ### 📊 GitHub Activity & Observability
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kelvinsiweh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kelvin's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinsiweh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="assets/stats.svg" alt="Kelvin's GitHub Stats" width="49%" />
+  <img src="assets/languages.svg" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-1%2C800%2B-2ea44f?style=for-the-badge&logo=github" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Maintained%20Projects-6%20Active-blue?style=for-the-badge&logo=git" alt="Maintained Projects" />
+  <img src="https://img.shields.io/badge/Engineering%20Stacks-Python%20%7C%20TypeScript%20%7C%20PHP-informational?style=for-the-badge" alt="Engineering Stacks" />
+  <img src="https://komarev.com/ghpvc/?username=Kelvinsiweh&color=007acc&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
 </p>
 
 <p align="center">
